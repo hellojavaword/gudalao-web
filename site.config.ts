@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: '谷老大的生活',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'https://www.notion.so/2e450826ec8f4797ad89f80c887f7ad4',
+  author: '王哥',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
