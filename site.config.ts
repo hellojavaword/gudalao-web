@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '423d2e0b9d834a6ebe4e0bfd88efed90?v=2ebe844673c64d258c391ebdbb1ca96e',
+  rootNotionPageId: '49ceeaea05a74a3195b75c3c4e336e43',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '谷老大的生活',
-  domain: 'https://www.notion.so/423d2e0b9d834a6ebe4e0bfd88efed90?v=2ebe844673c64d258c391ebdbb1ca96e',
+  domain: 'https://www.notion.so/49ceeaea05a74a3195b75c3c4e336e43',
   author: '王哥',
 
   // open graph metadata (optional)
